@@ -22,3 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hema7222&show_icons=true&locale=en" alt="hema7222" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hema7222&" alt="hema7222" /></p>
+
+<h3 align="left">GitHub Contributions Graph:</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=hema7222" alt="hema7222's GitHub Activity Graph" />
+</p>
