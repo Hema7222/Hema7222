@@ -32,7 +32,7 @@
 
 <h3 align="left">IDE and Tools I Use</h3>
 <p align="left"><img width="40" height="40" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="40" height="40" src="https://img.icons8.com/officel/16/java-eclipse.png" alt="java-eclipse"/>
+<img width="40" height="40" src="https://img.icons8.com/officel/40/java-eclipse.png" alt="java-eclipse"/>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
