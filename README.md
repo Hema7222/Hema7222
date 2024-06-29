@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 Aspiring **Full Stack Developer**
 
-- 💬 Ask me about **Java, MERN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **hemajeya004@gmail.com**
 
