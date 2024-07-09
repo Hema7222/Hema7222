@@ -44,5 +44,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hema7222&show_icons=true&locale=en" alt="hema7222" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hema7222&" alt="hema7222" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hema7222" alt="Hema's streak stats" />
+</p>
+
 
